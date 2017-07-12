@@ -53,6 +53,6 @@ Temporary Items
 
 # My extensions
 *.zip
-*.docx
+# *.docx
 
 # End of https://www.gitignore.io/api/go,macos,visualstudiocode

@@ -4,4 +4,7 @@ div {
 	background-color: blueviolet;
 	border-radius: 40px;
 	border: 20px groove yellow;
+	background-image: url("../../000_img/pup.jpg");
+	background-size: ;
+	background-repeat: no-repeat;
 }
